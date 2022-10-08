@@ -3,7 +3,8 @@
 - 🌱 I am currently studying Python, C#, and web programming tools.
 - 💞️ I am interested in volunteering to help create software and translate.
 - 📫 You can reach me via email at bezart06@gmail.com or via Telegram at https://t.me/bezart06.
-P.S. - I intend to bring this page up to speed at some point.
+
+_P.S. - I intend to bring this page up to speed at some point._
 
 <!---
 Bezart06/Bezart06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
